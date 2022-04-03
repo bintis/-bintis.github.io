@@ -1,7 +1,7 @@
 ---
 notetype: feed
-title: About this blog
-date: 2022-04-03 11:39:00 +0000
+title: About-this-blog
+date: 2022-04-02 15:00:00 +0000
 
 ---
 \#NoteTalk
