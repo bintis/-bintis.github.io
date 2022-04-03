@@ -8,6 +8,10 @@ date: 2022-04-02 15:00:00 +0000
 
 \#English
 
+  My toolchain for create this Blog is as blow, All of this not require any coding skill nor server knowledge,Cheers for today's cloud tech! Of course it 's all free.Engouh for personal use.
+
+ _All link are pure whitout any promotions.I am not making any profit by my blog,I hate such behavior._
+
 **Template:**
 
 [jekyll-garden]( "https://github.com/Jekyll-Garden/jekyll-garden.github.io")
@@ -24,6 +28,18 @@ date: 2022-04-02 15:00:00 +0000
 
 [Forestry](https://app.forestry.io/)
 
+**Domain:**
+
+[NameSilo](https://www.namesilo.com/)
+
+※Not　finished
+
+**CDN:**
+
+[cloudflare](https://www.cloudflare.com/ "https://www.cloudflare.com/")
+
+※Not finished
+
 **Sync:**
 
 git command
@@ -36,4 +52,6 @@ git command
 
 _Problem:_
 
-Some how difficult dealing with picture.
+1\.Some how difficult dealing with picture local,However ,Edit in FORESTRY  feels more smoothly.
+
+2\.When editing online, File must be have slash between words hence blank is not allowed.And Title of page must match file name.
