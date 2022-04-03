@@ -8,7 +8,7 @@ fields:
 - type: text
   name: notetype
   label: notetype
-  description: feed
+  default: feed
 - type: datetime
   name: date
   label: date
