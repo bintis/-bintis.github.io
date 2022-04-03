@@ -2,7 +2,6 @@
 notetype: feed
 title: About this blog
 date: 2022-04-03 11:39:00 +0000
-published: false
 
 ---
 \#NoteTalk
