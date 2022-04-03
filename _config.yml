@@ -28,7 +28,7 @@ url: "https://jekyll-garden.github.io/" # the base hostname & protocol for your 
 # your social media links etc
 #######################################################################
 
-heading: œ£¡È # Change this 
+heading: Xirin # Change this 
 copyright:  
   year: 2021
   msg: bintis # This is a mandatory attribute for copyright to be displayed ; If deleting this, edit at footer layout.
@@ -81,7 +81,7 @@ preferences:
   homepage: 
     enabled: false ##If you need a homepage, change this to true and edit _includes/Homepage.html
 
-encoding: GBK
+encoding: UTF-8
 
 # Build settings
 theme: null
