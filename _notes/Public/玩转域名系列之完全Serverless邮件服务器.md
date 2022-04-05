@@ -21,6 +21,7 @@ date: 2022-04-05
 买了域名又不知道除了写博客还能干什么？ 今天写一下如何利用免费的服务_并且使用Gmail_实现用自己的域名自定义的邮箱来收发邮件。而且不需要懂太多的技术，点点点即可。
 
 **为什么不自建邮件服务器？**
+
 不想写废话，网上已经说的很清楚了。
 
     https://poolp.org/posts/2019-08-30/you-should-not-run-your-mail-server-because-mail-is-hard/
@@ -143,15 +144,12 @@ _这一步需要账户已经启用了MFA二段验证，如果没有启用，需�
 
 这里的用户名是你的gmail的用户名，密码是Step2 .2中获取到的应用密码。
 
-1. 打开gmail 点击确认邮件或输入邮件验证码。
+打开gmail 点击确认邮件或输入邮件验证码。
 
 至此全部设定完毕，在使用Gmail发送邮件的时候，可以选择使用自定义邮箱发件。
 
-我们实现了不启动任何邮件服务端，不需要公网ip，不需要各种奇奇怪怪端口，自定义邮箱的效果。用喜欢的id送给自己一个邮箱，岂不美哉。
+我们实现了不配置任何邮件服务端，不需要公网ip，不需要各种奇奇怪怪端口，自定义邮箱的效果。用喜欢的id送给自己一个邮箱，岂不美哉。
 
-***
-
+---
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />この 作品 は <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">クリエイティブ・コモンズ 表示 - 非営利 - 改変禁止 4.0 国際 ライセンス</a>の下に提供されています。
-
-著作权，不许抄。
->>>>>>> e1ac95a5bbdee36dcfa74a1e3925f69f489226ce
+@Bintis 著作权，不许抄。
