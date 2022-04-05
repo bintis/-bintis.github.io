@@ -39,21 +39,17 @@ https://blog.cloudflare.com/introducing-email-routing/
 ```
 
 
-Step1  实现收取自定义邮箱邮件的设定：
-按照以下步骤来操作，有各种语言版本的翻译，就不重复造轮子了。
-
-    https://blog.cloudflare.com/introducing-email-routing/
-
 完成这一步后，向example.com发邮件就会被转发到gmail@gmail.com。但是此时回复的话发件人依旧是gmail@gmail.com。
 
 Step2 实现用自定义邮箱发件的设定：
 
-<<<<<<< HEAD
+
 1.  在DNS记录里添加如下 SPF记录
 
     v=spf1 include:spf.hanami.run include:_spf.google.com ~all
 
-2.获取谷歌程序认证密码
+
+2. 获取谷歌程序认证密码
 
 ```
 https://myaccount.google.com/apppasswords
@@ -67,7 +63,7 @@ https://support.google.com/accounts/answer/185839?hl=zh-Hans&co=GENIE.Platform%3
 
 
 
-3\.打开Gmail添加自定义邮件账号
+3. 打开Gmail添加自定义邮件账号
 
 定位到 `设置 → 账号和导入 → 用这个地址发送邮件 → 添加其他电子邮件地址`
 
@@ -78,7 +74,8 @@ https://support.google.com/accounts/answer/185839?hl=zh-Hans&co=GENIE.Platform%3
 ![](/uploads/2022-04-05-230609.png)
 
 这里的用户名是你的gmail的用户名，密码是Step2 .2中获取到的应用密码。
-打开gmail 点击确认邮件或输入邮件验证码。
+
+4. 打开gmail 点击确认邮件或输入邮件验证码。
 
 至此全部设定完毕，在使用Gmail发送邮件的时候，可以选择使用自定义邮箱发件。
 
