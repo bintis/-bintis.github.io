@@ -4,9 +4,7 @@ title: About-this-blog
 date: 2022-04-02 15:00:00 +0000
 
 ---
-\#NoteTalk
-
-\#English
+#NoteTalk #English
 
   My toolchain for create this Blog is as blow, All of this not require any coding skill nor server knowledge,Cheers for today's cloud tech! Of course it 's all free.Engouh for personal use.
 
