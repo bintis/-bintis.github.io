@@ -100,3 +100,10 @@ Trilium：K8S安装helm，储存持久化设定，参数设定，VPN设定，1�
 ---
 后记：
 2022/04/02 今天用GitHub重新搭建了个人博客，Jekyll主题和Markdown兼容非常好，实现了写完直接git push更新博客，对比三年前的Hexo+VPS反代模式方便不少。不得不感叹时代在进步，GitHub Page服务2015已经推出，我居然2022年才去使用，是我固步自封了。
+
+
+---
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />この 作品 は <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">クリエイティブ・コモンズ 表示 - 非営利 - 改変禁止 4.0 国際 ライセンス</a>の下に提供されています。
+
+@Bintis 著作权，不许抄。
