@@ -43,10 +43,15 @@ Step2  实现用自定义邮箱发件的设定：
 
 2.获取谷歌程序认证密码
 `https://myaccount.google.com/apppasswords`
-*这一步需要账户已经启用了MFA二段验证，如果没有启用，需要先开启MFA。
+*这一步需要账户已经启用了MFA二段验证，如果没有启用，需要先开启MFA。*
 `https://support.google.com/accounts/answer/185839?hl=zh-Hans&co=GENIE.Platform%3DDesktop`
 
 
 3.打开Gmail
 定位到 `设置 → 账号和导入 → 用这个地址发送邮件 → 添加其他电子邮件地址`
 
+
+
+
+---
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />この 作品 は <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">クリエイティブ・コモンズ 表示 - 非営利 - 改変禁止 4.0 国際 ライセンス</a>の下に提供されています。
