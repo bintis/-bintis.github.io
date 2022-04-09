@@ -28,7 +28,7 @@ url: "https://https://bintis.github.io/" # the base hostname & protocol for your
 # your social media links etc
 #######################################################################
 
-heading: Xirin # Change this 
+heading: Bintis # Change this 
 copyright:  
   year: 2022
   msg: bintis # This is a mandatory attribute for copyright to be displayed ; If deleting this, edit at footer layout.
